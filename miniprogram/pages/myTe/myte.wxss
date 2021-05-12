@@ -1,0 +1,4 @@
+/* miniprogram/pages/myTe/myte.wxss */
+.tx-c {
+  margin: 0 auto;
+}

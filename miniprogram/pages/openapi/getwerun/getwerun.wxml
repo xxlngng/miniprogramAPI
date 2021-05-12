@@ -1,0 +1,3 @@
+<!--pages/openapi/getwerun/getwerun.wxml-->
+<button class="mt20" type='primary' bindtap="btnbind">获取运动步数</button>
+<button class="mt20" type='primary' bindtap="btnscanbook">获取豆瓣书</button>

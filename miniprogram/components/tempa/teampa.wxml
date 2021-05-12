@@ -1,0 +1,5 @@
+<!--miniprogram/components/tempa/teampa.wxml-->
+<template name="tempa">
+  <text>tempa</text>
+</template>
+

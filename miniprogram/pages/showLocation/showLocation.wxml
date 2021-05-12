@@ -1,0 +1,2 @@
+<!--pages/showLocation/showLocation.wxml-->
+<button type="primary" bindtap="getPosition">获取地址位置</button>

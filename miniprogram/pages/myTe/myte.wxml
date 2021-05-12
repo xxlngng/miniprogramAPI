@@ -1,0 +1,17 @@
+<!--miniprogram/pages/myTe/myte.wxml-->
+<template name="item">
+  <text>item模板</text>
+</template>
+
+<import src='../../components/tempa/teampa.wxml' />
+
+<view class="tx-c">
+  
+  <text data-title="{{title}}" data-name="{{name}}" bindtap="tapName">{{name}}</text>
+  <template is="item"></template>
+  <view>
+    <template is="tempa"></template>
+  <!-- <include src="../../components/tempa/teampa.wxml"/> -->
+  </view>
+  <cover-image src="../../images/code-db-inc-dec.png"></cover-image>
+</view>

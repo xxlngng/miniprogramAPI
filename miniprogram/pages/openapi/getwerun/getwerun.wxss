@@ -1,0 +1,4 @@
+/* pages/openapi/getwerun/getwerun.wxss */
+.mt20 {
+  margin-top: 20px;
+}
